@@ -16,7 +16,7 @@ import cv2
 # distance from camera to object(face) measured
 KNOWN_DISTANCE = 76.2  # centimeter
 # width of face in the real world or Object Plane
-KNOWN_WIDTH = 14.3  # centimeter
+KNOWN_WIDTH = 15.3  # centimeter
 # Colors
 GREEN = (0, 255, 0)
 RED = (0, 0, 255)

@@ -2,9 +2,9 @@ import cv2 as cv
 
 
 # data
-Know_distance =30 # in centimeters
+Know_distance =75 # in centimeters
 #mine is 14.3 something, measure your face width, are google it 
-Know_width_face =14.3 #centimeters
+Know_width_face =5.3 #centimeters
 # chose your camera
 cam_number =1
 face_detector = cv.CascadeClassifier('data/haarcascade_frontalface_default.xml')
